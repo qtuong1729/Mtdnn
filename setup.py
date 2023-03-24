@@ -34,8 +34,8 @@ setup(
         re.sub(":[a-z]+:`~?(.*?)`", r"``\1``", read("CONTRIBUTION.md")),
     ),
     author=AUTHOR,
-    author_email="xiaodl@microsoft.com",
-    url="https://github.com/microsoft/mt-dnn",
+    author_email="truongzx1@gmail.com",
+    author_email="truongzx1@gmail.com",
     packages=["mtdnn"],
     include_package_data=True,
     zip_safe=True,
@@ -99,3 +99,4 @@ setup(
     use_scm_version=False,
     setup_requires=[],
 )
+
